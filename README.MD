@@ -7,4 +7,5 @@ https://github.com/x64dbg/x64dbg/wiki/Stylesheets
 
 
 
+
 use with colors 50 shades of gray
